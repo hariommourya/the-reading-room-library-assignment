@@ -1,0 +1,14 @@
+{
+  "name": "the-reading-room-library-assignment",
+  "version": "1.0.0",
+  "description": "Library Management System using HTML, CSS, JavaScript and Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
+
