@@ -2,7 +2,7 @@
 
 Adapted from the class Product Management example. The same two-file structure, Express routes, array storage, async functions and fetch requests are used.
 
-Your personal version uses forest green, warm ivory and subtle sage accents, with serif headings, clean form fields, restrained outlines and a mobile-friendly layout. No external fonts or images are required. Add, Show, Edit and Delete work the same way as the class-based assignment.
+This version uses forest green, warm ivory and subtle sage accents, with serif headings, clean form fields, restrained outlines and a mobile-friendly layout. Add, Show, Edit and Delete work the same way as the class-based assignment.
 
 ## Run
 
